@@ -160,10 +160,6 @@ footer p {
     justify-content: space-between;
   }
 
-  .logo {
-    font-size: 72px;
-  }
-
   .form-group {
     flex-direction: column;
     min-width: 0;
