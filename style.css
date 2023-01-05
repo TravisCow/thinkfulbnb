@@ -68,6 +68,7 @@ header {
   font-size: 60px;
   color: #fff;
   text-align: center;
+  margin: auto 0;
 }
 
 header nav ul li {
